@@ -1,6 +1,14 @@
 {
   "expo": {
     "name": "ConnectFree",
-    "slug": "ConnectFree"
+    "slug": "ConnectFree",
+    "extra": {
+      "eas": {
+        "projectId": "33e522a6-38d4-4c73-b0a3-9946616bc0b4"
+      }
+    },
+    "android": {
+      "package": "com.sharanusb.ConnectFree"
+    }
   }
 }
